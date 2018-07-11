@@ -4,3 +4,5 @@ This specific project is done as a test to see how I can work in Github and also
 
 
 This is a test for the for change to make a commit to Github.
+
+This is a second test to do a commit from Github directly. 
